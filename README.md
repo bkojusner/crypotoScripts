@@ -1,5 +1,3 @@
-# CTFtools
-Things I use frequently
+# CTFscripts
 
-Includes:
-Crypto (for now)
+A few scripts that I used for come crypto things that I refer to frequently
